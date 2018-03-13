@@ -1,6 +1,6 @@
 
 /*****************************************************************************************
-  File with application navigation
+  File with application navigations
 *****************************************************************************************/
 
 import React, { Component } from 'react';
